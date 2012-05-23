@@ -1,6 +1,6 @@
 {
   "name": "VikWiki Info",
-  "version": "1.0",
+  "version": "0.1",
   "omnibox": { "keyword" : "vw" },
   "icons": {
     "16": "logo.png"
