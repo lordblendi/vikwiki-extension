@@ -1,0 +1,12 @@
+{
+  "name": "VikWiki Info",
+  "version": "1.0",
+  "omnibox": { "keyword" : "vw" },
+  "icons": {
+    "16": "logo.png"
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": [ "tabs" ]
+}
