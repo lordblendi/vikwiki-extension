@@ -6,7 +6,7 @@
     "16": "logo.png"
   },
   "background": {
-    "scripts": ["background.js"]
+    "scripts": ["db.js", "background.js"]
   },
   "permissions": [ "tabs" ]
 }
