@@ -38,7 +38,7 @@ var db = {
   
   "info" : {
     "nickname" : "info",
-    "wiki_url" : wiki_base + "Infoalap",
+    "wiki_url" : wiki_base,
   },
   
  "sztech" : {
