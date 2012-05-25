@@ -36,4 +36,15 @@ var db = {
     "wiki_url" : wiki_base + "SzoftverTechnikak",
   },
   
+  "info" : {
+    "nickname" : "info",
+    "wiki_url" : wiki_base + "Infoalap",
+  },
+  
+ "sztech" : {
+    "nickname" : "sztech",
+    "wiki_url" : wiki_base + "ProgTech",
+  },
+  
+  
 }
