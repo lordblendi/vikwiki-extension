@@ -39,6 +39,12 @@ chrome.omnibox.onInputChanged.addListener(
 // This event is fired with the user accepts the input in the omnibox.
 chrome.omnibox.onInputEntered.addListener(
   function(text) {
-    
-    navigate(findMatches(text)[0].wiki_url);
+    if(text==""){
+      navigate(findMatches("info")[0].wiki_url);
+      
+    }
+    else{
+      navigate(findMatches(text)[0].wiki_url);
+      
+    }
   });
